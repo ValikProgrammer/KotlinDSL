@@ -1,0 +1,9 @@
+.gradle/
+build/
+.idea/
+*.iml
+.kotlin/
+out/
+rules.json
+*.pdf
+.~lock.*
